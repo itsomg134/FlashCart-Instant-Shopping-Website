@@ -7,7 +7,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Instant Product Browsing** – Grid layout showcasing products with images, descriptions, and prices.
 - **Real-Time Shopping Cart** – Add/remove items, adjust quantities, and see totals update instantly.
@@ -17,16 +17,8 @@
 - **Instant Checkout Simulation** – One-click checkout with a success message and cart clearing.
 - **No Dependencies** – Pure HTML/CSS/JS, no external libraries or frameworks (except Font Awesome icons).
 
----
 
-## 🚀 Live Demo
-
-[Click here to see FlashCart in action](#)  
-*(Replace `#` with your GitHub Pages or live demo link)*
-
----
-
-## 📸 Screenshots
+##  Screenshots
 
 | Product Grid | Shopping Cart |
 |--------------|----------------|
@@ -44,7 +36,7 @@
 
 ---
 
-## 📦 Installation & Usage
+##  Installation & Usage
 
 ### Clone the Repository
 
@@ -71,7 +63,7 @@ That's it! No build steps, no server required.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 ### Product Catalog
 Products are stored in a JavaScript array with properties: `id`, `name`, `desc`, `price`, and `icon`. The grid is dynamically rendered using `map()` and `innerHTML`.
