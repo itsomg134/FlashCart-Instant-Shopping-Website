@@ -83,7 +83,7 @@ The cart panel is a fixed overlay that slides in from the right. It's opened/clo
 
 ---
 
-## 🎨 Customization
+##  Customization
 
 ### Adding New Products
 
@@ -108,7 +108,7 @@ The default currency is USD (`$`). To change it, search for `$` in the JavaScrip
 
 ---
 
-## 📱 Responsive Breakpoints
+##  Responsive Breakpoints
 
 - **Desktop:** > 1024px – Full grid with 4 columns
 - **Tablet:** 768px – 1024px – 2-3 columns
@@ -118,18 +118,18 @@ The layout uses CSS Grid with `repeat(auto-fill, minmax(280px, 1fr))` for fluid 
 
 ---
 
-## 🧪 Testing
+##  Testing
 
 Tested manually on:
-- ✅ Chrome (latest)
-- ✅ Firefox (latest)
-- ✅ Safari (latest)
-- ✅ Edge (latest)
-- ✅ Mobile Chrome/Safari (iOS & Android)
+-  Chrome (latest)
+-  Firefox (latest)
+-  Safari (latest)
+-  Edge (latest)
+-  Mobile Chrome/Safari (iOS & Android)
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 Ideas to take this project further:
 
@@ -143,7 +143,7 @@ Ideas to take this project further:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to check the [issues page](https://github.com/yourusername/flashcart/issues).
@@ -156,13 +156,13 @@ Feel free to check the [issues page](https://github.com/yourusername/flashcart/i
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See `LICENSE` file for more information.
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Font Awesome](https://fontawesome.com/) for the beautiful icons
 - [Google Fonts](https://fonts.google.com/) for the Inter typeface
@@ -170,41 +170,3 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ---
 
-## 📬 Contact
-
-Your Name – [@yourtwitter](https://twitter.com/yourtwitter) – your.email@example.com
-
-Project Link: [https://github.com/yourusername/flashcart](https://github.com/yourusername/flashcart)
-
----
-
-## ⭐ Show Your Support
-
-If you found this project helpful or interesting, please give it a ⭐ on GitHub!
-
----
-
-**Built with ☕ and JavaScript**
-```
-
-This README provides:
-
-1. **Project overview** – what FlashCart is and its key features
-2. **Tech stack** – technologies used
-3. **Installation instructions** – simple "clone and open" workflow
-4. **How it works** – explains the core logic and architecture
-5. **Customization guide** – how to add products, change styling, modify currency
-6. **Responsive design notes** – breakpoints and layout strategy
-7. **Testing & compatibility** – browsers verified
-8. **Future enhancements** – roadmap for expansion
-9. **Contribution guidelines** – for open-source collaboration
-10. **License & contact info** – professional footer
-
-To use this README:
-
-1. Save it as `README.md` in your project root
-2. Replace placeholder URLs (demo link, screenshot URLs, GitHub profile, contact info, Twitter handle)
-3. Add actual screenshots to your repository and update the image links
-4. (Optional) Add a `LICENSE` file (MIT recommended for open-source)
-
-The README is formatted with clear headings, code blocks, emojis for visual appeal, and is structured to be both informative and developer-friendly.
