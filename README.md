@@ -1,12 +1,9 @@
-Here's a comprehensive GitHub README for your instant shopping website project. You can save this as `README.md` in your repository.
-
-```markdown
-# 🛒 FlashCart – Instant Shopping Website
+# FlashCart – Instant Shopping Website
 
 **FlashCart** is a modern, fully responsive instant shopping web application built with vanilla HTML, CSS, and JavaScript. It provides a seamless shopping experience with a real-time shopping cart, dynamic product catalog, and an intuitive user interface — no backend required, perfect for frontend demos or e-commerce prototypes.
 
-![Demo Screenshot](https://via.placeholder.com/800x400?text=FlashCart+Demo)  
-*(Replace with actual screenshot of your project)*
+<img width="1887" height="1502" alt="image" src="https://github.com/user-attachments/assets/8a7d2207-3afa-456c-9e81-f5d47095c15d" />
+
 
 ---
 
